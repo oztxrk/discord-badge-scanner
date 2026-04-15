@@ -1,0 +1,16 @@
+{
+  "name": "ozturk-badge-scanner",
+  "version": "2.0.0",
+  "description": "Ozturk Badge Scanner + Data Cross-Reference",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.4.6",
+    "discord.js": "^14.16.3",
+    "axios": "^1.7.9",
+    "sql.js": "^1.11.0",
+    "debug": "^4.3.4"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "bot_token": "bottoken",
+  "selfbot_token": "sunucularıtarayacaktoken",
+  "webhook_url": "webhok",
+  "target_guild_id": ""
+}
